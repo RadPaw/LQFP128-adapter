@@ -1,1 +1,1 @@
-LQFP128 adapter Gerber files and Sprint Layout 
+LQFP128 adapter Gerber and Sprint Layout files.
